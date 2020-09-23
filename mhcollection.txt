@@ -1,0 +1,18 @@
+An enhanced collection 
+Martin E. Haring
+mharing@mailcity.com
+
+This enhanced collection adds the following facilities to the existing 
+collection object:
+
+1.   Contains not only the data but the keys for the data
+2.   An Exists function to determine if the data for a key exists in the collection.
+3.   A Key function to get the key for a data item. Allows you to iterate through
+	the collection obtaining first the key and then the data
+4.   Can be used in earlier versions of VB where the collection object is available.
+5.   Now you can use the "for each xxx in mhCollection" to iterate for the data
+
+Enjoy.
+
+Martin
+
